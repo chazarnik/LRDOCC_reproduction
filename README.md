@@ -1,6 +1,6 @@
 # RE' Learning and Evaluating Representations for Deep One-Class Classification
 
-This repository contains code to reproduce results from Table 2 and Table 7 of the paper: ["Learning and Evaluating Representations for Deep One-Class Classification"](https://openreview.net/forum?id=HCSgyPUfeDj) as part of the COMP6248 UoS Reproducability Challenge.
+This repository contains code to reproduce results from Table 2 and Table 7 of the paper: ["Learning and Evaluating Representations for Deep One-Class Classification"](https://openreview.net/forum?id=HCSgyPUfeDj) as part of the UoS COMP6248 Differentiable Programming module Reproducability Challenge.
 
 ![Paper_Figure1](https://github.com/COMP6248-Reproducability-Challenge/LRDOCC_reproduction/blob/main/Paper_Figure1.PNG)
 
@@ -22,7 +22,7 @@ Each folder contains scripts to generate the respective method representations a
 
 ### Team members:
 
-- Niko Chazaridis (@chazarnik)
+- Nikos Chazaridis (@chazarnik)
 - Marios Christodoulou (@mchris7)
 - Ian Simpson (@statsonthecloud)
 
